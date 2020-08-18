@@ -14,7 +14,7 @@ public class lucas {
         String simbCarta;
         int nValorTotal, valorCarta = 0, naipe = 0, simbolo = 0;
         boolean denovo = true, perdeu = false;
-        JOptionPane.showMessageDialog(null, "Generation\nJogo 21\nClique para iniciar");
+        JOptionPane.showMessageDialog(null, "Generation Brasil\nProjeto de Lucas e Alex\nJogo 21\nClique para iniciar");
         while(true){
             Baralho b1 = new Baralho();
             nValorTotal = 0;
